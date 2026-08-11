@@ -12,3 +12,4 @@ C:\Users\HP PC\source\repos\hardwareStoreInventory\hardwareStoreInventory\obj\De
 C:\Users\HP PC\source\repos\hardwareStoreInventory\hardwareStoreInventory\obj\Debug\net10.0\hardwareStoreInventory.pdb
 C:\Users\HP PC\source\repos\hardwareStoreInventory\hardwareStoreInventory\obj\Debug\net10.0\hardwareStoreInventory.genruntimeconfig.cache
 C:\Users\HP PC\source\repos\hardwareStoreInventory\hardwareStoreInventory\obj\Debug\net10.0\ref\hardwareStoreInventory.dll
+C:\Users\HP PC\source\repos\hardwareStoreInventory\hardwareStoreInventory\obj\Debug\net10.0\hardwareStoreInventory.sourcelink.json

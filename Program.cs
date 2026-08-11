@@ -34,11 +34,10 @@ namespace HardwareStoreInventoryManagement
             }
             else Console.WriteLine($"hello {userName}, you are welcome to {businessName}");
             
+             Console.WriteLine($"{userName}, you are welcome to {businessName}");
+            
             Console.WriteLine("How much capital did you start your business with?");
             startingCapital = Convert.ToSingle(Console.ReadLine()); //  float 
-
-
-            Console.WriteLine($"{userName}, you are welcome to {businessName}");
 
             string addAnother = "yes"; //  loop keeps running
             while (addAnother == "yes") // Loop continues as long as user says "yes"
