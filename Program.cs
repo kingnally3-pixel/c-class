@@ -32,7 +32,7 @@ namespace HardwareStoreInventoryManagement
             {
                 Console.WriteLine($"hello Mrs. {userName}, you are welcome to {businessName}");
             }
-            else Console.WriteLine($"hello {userName}, you are welcome to {businessName}");
+            
             
              Console.WriteLine($"{userName}, you are welcome to {businessName}");
             
