@@ -1,0 +1,14 @@
+C:\Users\HP PC\source\repos\hardwareStoreInventory\hardwareStoreInventory\bin\Debug\net10.0\hardwareStoreInventory.exe
+C:\Users\HP PC\source\repos\hardwareStoreInventory\hardwareStoreInventory\bin\Debug\net10.0\hardwareStoreInventory.deps.json
+C:\Users\HP PC\source\repos\hardwareStoreInventory\hardwareStoreInventory\bin\Debug\net10.0\hardwareStoreInventory.runtimeconfig.json
+C:\Users\HP PC\source\repos\hardwareStoreInventory\hardwareStoreInventory\bin\Debug\net10.0\hardwareStoreInventory.dll
+C:\Users\HP PC\source\repos\hardwareStoreInventory\hardwareStoreInventory\bin\Debug\net10.0\hardwareStoreInventory.pdb
+C:\Users\HP PC\source\repos\hardwareStoreInventory\hardwareStoreInventory\obj\Debug\net10.0\hardwareStoreInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP PC\source\repos\hardwareStoreInventory\hardwareStoreInventory\obj\Debug\net10.0\hardwareStoreInventory.AssemblyInfoInputs.cache
+C:\Users\HP PC\source\repos\hardwareStoreInventory\hardwareStoreInventory\obj\Debug\net10.0\hardwareStoreInventory.AssemblyInfo.cs
+C:\Users\HP PC\source\repos\hardwareStoreInventory\hardwareStoreInventory\obj\Debug\net10.0\hardwareStoreInventory.csproj.CoreCompileInputs.cache
+C:\Users\HP PC\source\repos\hardwareStoreInventory\hardwareStoreInventory\obj\Debug\net10.0\hardwareStoreInventory.dll
+C:\Users\HP PC\source\repos\hardwareStoreInventory\hardwareStoreInventory\obj\Debug\net10.0\refint\hardwareStoreInventory.dll
+C:\Users\HP PC\source\repos\hardwareStoreInventory\hardwareStoreInventory\obj\Debug\net10.0\hardwareStoreInventory.pdb
+C:\Users\HP PC\source\repos\hardwareStoreInventory\hardwareStoreInventory\obj\Debug\net10.0\hardwareStoreInventory.genruntimeconfig.cache
+C:\Users\HP PC\source\repos\hardwareStoreInventory\hardwareStoreInventory\obj\Debug\net10.0\ref\hardwareStoreInventory.dll
