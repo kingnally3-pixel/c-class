@@ -18,15 +18,8 @@ namespace HardwareStoreInventoryManagement
             Console.WriteLine("What is your business name:");
             // businessName = Console.ReadLine();
             businessName = "Stream";
-
-            Console.WriteLine($"{userName}, you are welcome to {businessName}");
-
             Console.WriteLine("What is your age?");
             age = Convert.ToInt32(Console.ReadLine()); //  convert it to an integer
-
-            Console.WriteLine("How much capital did you start your business with?");
-            startingCapital = Convert.ToSingle(Console.ReadLine()); //  float 
-
             Console.WriteLine("What is your gender? (male/female)");
             gender = Console.ReadLine().ToLower(); //convert to lowercase
 
@@ -40,8 +33,13 @@ namespace HardwareStoreInventoryManagement
                 Console.WriteLine($"hello Mrs. {userName}, you are welcome to {businessName}");
             }
             else Console.WriteLine($"hello {userName}, you are welcome to {businessName}");
-
             
+            Console.WriteLine("How much capital did you start your business with?");
+            startingCapital = Convert.ToSingle(Console.ReadLine()); //  float 
+
+
+            Console.WriteLine($"{userName}, you are welcome to {businessName}");
+
             string addAnother = "yes"; //  loop keeps running
             while (addAnother == "yes") // Loop continues as long as user says "yes"
             {
